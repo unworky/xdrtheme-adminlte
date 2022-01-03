@@ -1,9 +1,9 @@
 # Add your theme name below, and place it between double quotes, space allowed
 THEMENAME="Admin LTE"
 # Add your name below, and place it between double quotes, space allowed
-CREATOR="Ardi Setiawan"
+CREATOR="Adi Wahyu"
 # Add your github username below, and place it between double quotes, No space allowed
-GITUSER="squarepants96"
+GITUSER="unworky"
 # Add your theme repository name below, and place it between double quotes, No space allowed
 GITREPO="xdrtheme-adminlte"
 # Add your used repository branch below, and place it between double quotes, No space allowed
