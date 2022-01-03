@@ -9,4 +9,4 @@ GITREPO="xdrtheme-adminlte"
 # Add your used repository branch below, and place it between double quotes, No space allowed
 GITBRANCH="main"
 # Add theme version, and place it between double quotes, No space allowed. Example : v1.0 or v2.1-beta
-THEMEVER="v1.0"
+THEMEVER="v2.0"
